@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Activ3.xsl"?>
+    <tabla>
+        
+        <fila>
+            <nombre>McDonald's</nombre>
+            <direccion>Calle La Rambla 123</direccion>
+            <telefono>555-555-1212</telefono>
+            <tipo>Comida rápida</tipo>
+            <valoracion>4.5</valoracion>
+            <precio> 10 $</precio>
+        </fila>
+        <fila>
+            <nombre>Burger King</nombre>
+            <direccion>Calle Gracia 456</direccion>
+            <telefono>555-555-1213</telefono>
+            <tipo>Comida rápida</tipo>
+            <valoracion>4.0</valoracion>
+            <precio>9 $</precio>
+        </fila>
+        <fila>
+            <nombre>Wendy's</nombre>
+            <direccion>Calle Eixample 789</direccion>
+            <telefono>555-555-1214</telefono>
+            <tipo>Comida rápida</tipo>
+            <valoracion>4.2</valoracion>
+            <precio>12 $</precio>
+        </fila>
+        <fila>
+            <nombre>Taco Bell</nombre>
+            <direccion>Calle Sant Antoni 246</direccion>
+            <telefono>555-555-1215</telefono>
+            <tipo>Comida rápida</tipo>
+            <valoracion>4.3</valoracion>
+            <precio>10 $</precio>
+        </fila>
+        <fila>
+            <nombre>KFC</nombre>
+            <direccion>Calle El Raval 369</direccion>
+            <telefono>555-555-1216</telefono>
+            <tipo>Comida rápida</tipo>
+            <valoracion>4.1</valoracion>
+            <precio>9 $</precio>
+        </fila>
+        <fila>
+            <nombre>Subway</nombre>
+            <direccion>Calle Poble Sec 159</direccion>
+            <telefono>555-555-1217</telefono>
+            <tipo>Comida rápida</tipo>
+            <valoracion>4.1</valoracion>
+            <precio>8 $</precio>
+        </fila>
+    </tabla>    

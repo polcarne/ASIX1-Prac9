@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="activ2.xsl"?>
+<classificacion>
+    <equipo nombre="Barcelona">
+      <puntos>12</puntos>
+      <goles>22</goles>
+    </equipo>
+    <equipo nombre="Real Madrid">
+      <puntos>15</puntos>
+      <goles>24</goles>
+    </equipo>
+    <equipo nombre="Atletico Madrid">
+      <puntos>10</puntos>
+      <goles>17</goles>
+    </equipo>
+    <equipo nombre="Valencia">
+        <puntos>8</puntos>
+        <goles>14</goles>
+    </equipo>
+  </classificacion>
